@@ -39,3 +39,4 @@ Since `libcamera-vid` is directly taking over the framebuffer (display), we can'
 
 ### References:
 - [https://www.instructables.com/Raspberry-Pi-Power-Button/](https://www.instructables.com/Raspberry-Pi-Power-Button/)
+- [https://www.reddit.com/r/raspberry_pi/comments/5ajyt1/is_it_safe_practice_to_just_unplug_my_raspberry/](https://www.reddit.com/r/raspberry_pi/comments/5ajyt1/is_it_safe_practice_to_just_unplug_my_raspberry/)
