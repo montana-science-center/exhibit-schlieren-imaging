@@ -1,0 +1,9 @@
+[Unit]
+Description=Run the raspberry pi camera in a full-screen framebuffer on boot
+
+[Install]
+WantedBy=default.target
+
+[Service]
+Type=simple
+ExecStart=bash /home/msc/run-camera.sh
