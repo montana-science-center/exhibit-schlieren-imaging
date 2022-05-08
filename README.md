@@ -32,3 +32,10 @@ Since `libcamera-vid` is directly taking over the framebuffer (display), we can'
 
 ### References
 - [raspberry pi camera documentation](https://www.raspberrypi.com/documentation/accessories/camera.html)
+
+## Raspberry pi on/off button
+
+**TODO:** install and on/off switch so we don't risk corrupting the SD card by pulling the power cable / turning the power strip off.
+
+### References:
+- [https://www.instructables.com/Raspberry-Pi-Power-Button/](https://www.instructables.com/Raspberry-Pi-Power-Button/)
